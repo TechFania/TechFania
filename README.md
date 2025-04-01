@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @TechFania
-- 👀 I’m interested in software development, new technologies, and gaining more experience as a project manager.
-- 🌱 I’m currently learning C# and exploring how to create simple inventory and sales systems.
-- 💞️ I’m looking to collaborate on projects related to C#, backend development, and project management opportunities.
-- 📫 How to reach me estefytamayor@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love video games and enjoy spending time with my family.
+- Hello! 👋 I’m @TechFania
 
+	•	👀 I’m passionate about software development and new technologies.
+	•	🌱 Currently, I’m learning C#. I also design websites on Wix and Shopify, and use Replit for my programming projects.
+	•	📫 You can contact me at info@tary.studio
+	•	⚡ I’m launching my digital services business. Follow us on Instagram at @tary.studiox
